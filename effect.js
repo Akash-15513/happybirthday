@@ -46,11 +46,11 @@ $('document').ready(function(){
 
 	$('#bannar_coming').click(function(){
 		$('.bannar').addClass('bannar-come');
-		$('.kiran').addClass('kiran-come');
-		$('.kiran2').addClass('kiran2-come');
-		$('.kiran3').addClass('kiran3-come');
-		$('.kiran4').addClass('kiran4-come');
-		$('.kiran5').addClass('kiran5-come');
+		$('.kanika1').addClass('kanika1-come');
+		$('.kanika2').addClass('kanika2-come');
+		$('.kanika3').addClass('kanika3-come');
+		$('.kanika4').addClass('kanika4-come');
+		$('.kanika5').addClass('kanika5-come');
 		$(this).fadeOut('slow').delay(6000).promise().done(function(){
 			$('#balloons_flying').fadeIn('slow');
 		});
@@ -110,7 +110,7 @@ $('document').ready(function(){
 	$('#balloons_flying').click(function(){
 		$('.balloon-border').animate({top:-500},8000);
 		$('#b1,#b4,#b5,#b7').addClass('balloons-rotate-behaviour-one');
-		$('#b2,#b3,#b6').addClass('balloons-rotate-behaviour-two');
+		$('#b2,#b3,#b6',#b8').addClass('balloons-rotate-behaviour-two');
 		// $('#b3').addClass('balloons-rotate-behaviour-two');
 		// $('#b4').addClass('balloons-rotate-behaviour-one');
 		// $('#b5').addClass('balloons-rotate-behaviour-one');
@@ -123,6 +123,7 @@ $('document').ready(function(){
 		loopFive();
 		loopSix();
 		loopSeven();
+		loopEight();
 		
 		$(this).fadeOut('slow').delay(5000).promise().done(function(){
 			$('#cake_fadein').fadeIn('slow');
@@ -147,7 +148,7 @@ $('document').ready(function(){
 	$('#wish_message').click(function(){
 		 vw = $(window).width()/2;
 
-		$('#b1,#b2,#b3,#b4,#b5,#b6,#b7').stop();
+		$('#b1,#b2,#b3,#b4,#b5,#b6,#b7',#b8').stop();
 		$('#b1').attr('id','b11');
 		$('#b2').attr('id','b22')
 		$('#b3').attr('id','b33')
@@ -155,6 +156,7 @@ $('document').ready(function(){
 		$('#b5').attr('id','b55')
 		$('#b6').attr('id','b66')
 		$('#b7').attr('id','b77')
+		$('#b8').attr('id','b88')
 		$('#b11').animate({top:240, left: vw-350},500);
 		$('#b22').animate({top:240, left: vw-250},500);
 		$('#b33').animate({top:240, left: vw-150},500);
@@ -162,6 +164,7 @@ $('document').ready(function(){
 		$('#b55').animate({top:240, left: vw+50},500);
 		$('#b66').animate({top:240, left: vw+150},500);
 		$('#b77').animate({top:240, left: vw+250},500);
+		$('#b88').animate({top:240, left: vw-350},500);
 		$('.balloons').css('opacity','0.9');
 		$('.balloons h2').fadeIn(3000);
 		$(this).fadeOut('slow').delay(3000).promise().done(function(){
