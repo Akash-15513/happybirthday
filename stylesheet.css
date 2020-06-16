@@ -1074,7 +1074,7 @@ audio {
 		transform:translate(0px,0px);
 	}
 }
-.kiran {
+.kanika1 {
 	max-width: 100%;
 	-webkit-transform:translate(0px,-500px);
 	-moz-transform:translate(0px,-500px);
@@ -1083,24 +1083,24 @@ audio {
 	transform:translate(0px,-500px);
 	
 }
-.kiran-come {
-	-webkit-animation: kiran_come linear 6s;
+.kanika1-come {
+	-webkit-animation: kanika1_come linear 6s;
 	-webkit-transform:translate(0px,0px);
 	-webkit-transform:rotate(-90deg);
-	-moz-animation: kiran_come linear 6s;
+	-moz-animation: kanika1_come linear 6s;
 	-moz-transform:translate(0px,0px);
 	-moz-transform:rotate(-90deg);
-	-o-animation: kiran_come linear 6s;
+	-o-animation: kanika1_come linear 6s;
 	-o-transform:translate(0px,0px);
 	-o-transform:rotate(-90deg);
-	-ms-animation: kiran_come linear 6s;
+	-ms-animation: kanika1_come linear 6s;
 	-ms-transform:translate(0px,0px);
 	-ms-transform:rotate(-90deg);
-	animation: kiran_come linear 6s;
+	animation: kanika1_come linear 6s;
 	transform:translate(0px,0px);
 	transform:rotate(-80deg);
 }
-@-webkit-keyframes kiran_come {
+@-webkit-keyframes kanika1_come {
 	0%{
 		-webkit-transform:translate(0px,-1000px);
 		-webkit-transform:rotate(-90deg);
@@ -1119,7 +1119,7 @@ audio {
 		-webkit-transform:rotate(-90deg);
 	}
 }
-@-moz-keyframes kiran_come {
+@-moz-keyframes kanika1_come {
 	0%{
 		-moz-transform:translate(0px,-1000px);
 		-moz-transform:rotate(-90deg);
@@ -1138,7 +1138,7 @@ audio {
 		-moz-transform:rotate(-90deg);
 	}
 }
-@-o-keyframes kiran_come {
+@-o-keyframes kanika1_come {
 	0%{
 		-o-transform:translate(0px,-1000px);
 		-o-transform:rotate(-90deg);
@@ -1157,7 +1157,7 @@ audio {
 		-o-transform:rotate(-90deg);
 	}
 }
-@-ms-keyframes kiran_come {
+@-ms-keyframes kanika1_come {
 	0%{
 		-ms-transform:translate(0px,-1000px);
 		-ms-transform:rotate(-90deg);
@@ -1176,7 +1176,7 @@ audio {
 		-ms-transform:rotate(-90deg);
 	}
 }o
-@keyframes kiran_come {
+@keyframes kanika1_come {
 	0%{
 		transform:translate(0px,-1000px);
 		transform:rotate(-90deg);
@@ -1195,7 +1195,7 @@ audio {
 		transform:rotate(-90deg);
 	}
 }
-.kiran2 {
+.kanika2 {
 	max-width: 100%;
 	-webkit-transform:translate(0px,-500px);
 	-moz-transform:translate(0px,-500px);
@@ -1204,20 +1204,20 @@ audio {
 	transform:translate(0px,-500px);
 	
 }
-.kiran2-come {
-	-webkit-animation: kiran2_come linear 6s;
+.kanika2-come {
+	-webkit-animation: kanika2_come linear 6s;
 	-webkit-transform:translate(0px,0px);
-	-moz-animation: kiran2_come linear 6s;
+	-moz-animation: kanika2_come linear 6s;
 	-moz-transform:translate(0px,0px);
-	-o-animation: kiran2_come linear 6s;
+	-o-animation: kanika2_come linear 6s;
 	-o-transform:translate(0px,0px);
-	-ms-animation: kiran2_come linear 6s;
+	-ms-animation: kanika2_come linear 6s;
 	-ms-transform:translate(0px,0px);
-	animation: kiran2_come linear 6s;
+	animation: kanika2_come linear 6s;
 	transform:translate(0px,0px);
 	transform:rotate(-10deg);
 }
-@-webkit-keyframes kiran2_come {
+@-webkit-keyframes kanika2_come {
 	0%{
 		-webkit-transform:translate(0px,-1000px);
 		-webkit-transform:rotate(10deg);
@@ -1236,7 +1236,7 @@ audio {
 		-webkit-transform:rotate(-10deg);
 	}
 }
-@-moz-keyframes kiran2_come {
+@-moz-keyframes kanika2_come {
 	0%{
 		-moz-transform:translate(0px,-1000px);
 		-moz-transform:rotate(10deg);
@@ -1255,7 +1255,7 @@ audio {
 		-moz-transform:rotate(-10deg);
 	}
 }
-@-o-keyframes kiran2_come {
+@-o-keyframes kanika2_come {
 	0%{
 		-o-transform:translate(0px,-1000px);
 		-o-transform:rotate(10deg);
@@ -1274,7 +1274,7 @@ audio {
 		-o-transform:rotate(-10deg);
 	}
 }
-@-ms-keyframes kiran2_come {
+@-ms-keyframes kanika2_come {
 	0%{
 		-ms-transform:translate(0px,-1000px);
 		-ms-transform:rotate(10deg);
@@ -1293,7 +1293,7 @@ audio {
 		-ms-transform:rotate(-10deg);
 	}
 }o
-@keyframes kiran2_come {
+@keyframes kanika2_come {
 	0%{
 		transform:translate(0px,-1000px);
 		transform:rotate(10deg);
@@ -1312,7 +1312,7 @@ audio {
 		transform:rotate(-10deg);
 	}
 }
-.kiran3 {
+.kanika3 {
 	max-width: 100%;
 	max-height: 80%;
 	-webkit-transform:translate(0px,-500px);
@@ -1322,20 +1322,20 @@ audio {
 	transform:translate(0px,-500px);
 	
 }
-.kiran3-come {
-	-webkit-animation: kiran3_come linear 6s;
+.kanika3-come {
+	-webkit-animation: kanika3_come linear 6s;
 	-webkit-transform:translate(0px,0px);
-	-moz-animation: kiran3_come linear 6s;
+	-moz-animation: kanika3_come linear 6s;
 	-moz-transform:translate(0px,0px);
-	-o-animation: kiran3_come linear 6s;
+	-o-animation: kanika3_come linear 6s;
 	-o-transform:translate(0px,0px);
-	-ms-animation: kiran3_come linear 6s;
+	-ms-animation: kanika3_come linear 6s;
 	-ms-transform:translate(0px,0px);
-	animation: kiran3_come linear 6s;
+	animation: kanika3_come linear 6s;
 	transform:translate(0px,0px);
 	transform:rotate(20deg);
 }
-@-webkit-keyframes kiran3_come {
+@-webkit-keyframes kanika3_come {
 	0%{
 		-webkit-transform:translate(0px,-1000px);
 		-webkit-transform:rotate(-30deg);
@@ -1354,7 +1354,7 @@ audio {
 		-webkit-transform:rotate(30deg);
 	}
 }
-@-moz-keyframes kiran3_come {
+@-moz-keyframes kanika3_come {
 	0%{
 		-moz-transform:translate(0px,-1000px);
 		-moz-transform:rotate(-30deg);
@@ -1373,7 +1373,7 @@ audio {
 		-moz-transform:rotate(30deg);
 	}
 }
-@-o-keyframes kiran3_come {
+@-o-keyframes kanika3_come {
 	0%{
 		-o-transform:translate(0px,-1000px);
 		-o-transform:rotate(-30deg);
@@ -1392,7 +1392,7 @@ audio {
 		-o-transform:rotate(30deg);
 	}
 }
-@-ms-keyframes kiran3_come {
+@-ms-keyframes kanika3_come {
 	0%{
 		-ms-transform:translate(0px,-1000px);
 		-ms-transform:rotate(-30deg);
@@ -1411,7 +1411,7 @@ audio {
 		-ms-transform:rotate(30deg);
 	}
 }o
-@keyframes kiran3_come {
+@keyframes kanika3_come {
 	0%{
 		transform:translate(0px,-1000px);
 		transform:rotate(-30deg);
@@ -1430,7 +1430,7 @@ audio {
 		transform:rotate(30deg);
 	}
 }
-.kiran4 {
+.kanika4 {
 	max-width: 100%;
 	-webkit-transform:translate(0px,-500px);
 	-moz-transform:translate(0px,-500px);
@@ -1439,20 +1439,20 @@ audio {
 	transform:translate(0px,-500px);
 	
 }
-.kiran4-come {
-	-webkit-animation: kiran4_come linear 6s;
+.kanika4-come {
+	-webkit-animation: kanika4_come linear 6s;
 	-webkit-transform:translate(0px,0px);
-	-moz-animation: kiran4_come linear 6s;
+	-moz-animation: kanika4_come linear 6s;
 	-moz-transform:translate(0px,0px);
-	-o-animation: kiran4_come linear 6s;
+	-o-animation: kanika4_come linear 6s;
 	-o-transform:translate(0px,0px);
-	-ms-animation: kiran4_come linear 6s;
+	-ms-animation: kanika4_come linear 6s;
 	-ms-transform:translate(0px,0px);
-	animation: kiran4_come linear 6s;
+	animation: kanika4_come linear 6s;
 	transform:translate(0px,0px);
 	transform:rotate(-10deg);
 }
-@-webkit-keyframes kiran4_come {
+@-webkit-keyframes kanika4_come {
 	0%{
 		-webkit-transform:translate(0px,-1000px);
 		-webkit-transform:rotate(20deg);
@@ -1471,7 +1471,7 @@ audio {
 		-webkit-transform:rotate(-10deg);
 	}
 }
-@-moz-keyframes kiran4_come {
+@-moz-keyframes kanika4_come {
 	0%{
 		-moz-transform:translate(0px,-1000px);
 		-moz-transform:rotate(20deg);
@@ -1490,7 +1490,7 @@ audio {
 		-moz-transform:rotate(-10deg);
 	}
 }
-@-o-keyframes kiran4_come {
+@-o-keyframes kanika4_come {
 	0%{
 		-o-transform:translate(0px,-1000px);
 		-o-transform:rotate(20deg);
@@ -1509,7 +1509,7 @@ audio {
 		-o-transform:rotate(-10deg);
 	}
 }
-@-ms-keyframes kiran4_come {
+@-ms-keyframes kanika4_come {
 	0%{
 		-ms-transform:translate(0px,-1000px);
 		-ms-transform:rotate(20deg);
@@ -1528,7 +1528,7 @@ audio {
 		-ms-transform:rotate(-10deg);
 	}
 }o
-@keyframes kiran4_come {
+@keyframes kanika4_come {
 	0%{
 		transform:translate(0px,-1000px);
 		transform:rotate(20deg);
@@ -1547,7 +1547,7 @@ audio {
 		transform:rotate(-10deg);
 	}
 }
-.kiran5 {
+.kanika5 {
 	max-width: 100%;
 	-webkit-transform:translate(0px,-500px);
 	-moz-transform:translate(0px,-500px);
@@ -1556,20 +1556,20 @@ audio {
 	transform:translate(0px,-500px);
 	
 }
-.kiran5-come {
-	-webkit-animation: kiran5_come linear 6s;
+.kanika5-come {
+	-webkit-animation: kanika5_come linear 6s;
 	-webkit-transform:translate(0px,0px);
-	-moz-animation: kiran5_come linear 6s;
+	-moz-animation: kanika5_come linear 6s;
 	-moz-transform:translate(0px,0px);
-	-o-animation: kiran5_come linear 6s;
+	-o-animation: kanika5_come linear 6s;
 	-o-transform:translate(0px,0px);
-	-ms-animation: kiran5_come linear 6s;
+	-ms-animation: kanika5_come linear 6s;
 	-ms-transform:translate(0px,0px);
-	animation: kiran5_come linear 6s;
+	animation: kanika5_come linear 6s;
 	transform:translate(0px,0px);
 	transform:rotate(10deg);
 }
-@-webkit-keyframes kiran5_come {
+@-webkit-keyframes kanika5_come {
 	0%{
 		-webkit-transform:translate(0px,-1000px);
 		-webkit-transform:rotate(-20deg);
@@ -1588,7 +1588,7 @@ audio {
 		-webkit-transform:rotate(10deg);
 	}
 }
-@-moz-keyframes kiran5_come {
+@-moz-keyframes kanika5_come {
 	0%{
 		-moz-transform:translate(0px,-1000px);
 		-moz-transform:rotate(-20deg);
@@ -1607,7 +1607,7 @@ audio {
 		-moz-transform:rotate(10deg);
 	}
 }
-@-o-keyframes kiran5_come {
+@-o-keyframes kanika5_come {
 	0%{
 		-o-transform:translate(0px,-1000px);
 		-o-transform:rotate(-20deg);
@@ -1626,7 +1626,7 @@ audio {
 		-o-transform:rotate(10deg);
 	}
 }
-@-ms-keyframes kiran5_come {
+@-ms-keyframes kanika5_come {
 	0%{
 		-ms-transform:translate(0px,-1000px);
 		-ms-transform:rotate(-20deg);
@@ -1645,7 +1645,7 @@ audio {
 		-ms-transform:rotate(10deg);
 	}
 }o
-@keyframes kiran5_come {
+@keyframes kanika5_come {
 	0%{
 		transform:translate(0px,-1000px);
 		transform:rotate(-20deg);
