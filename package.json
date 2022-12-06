@@ -16,6 +16,6 @@
   "author": "Akash Tomar",
   "homepage": "https://github.com/Akash-15513/happy-birthday#readme",
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
